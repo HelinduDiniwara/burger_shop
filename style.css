@@ -1,0 +1,14 @@
+/* .container{
+    align-items: center;
+} */
+
+/* .home{
+    align-items: center;
+    display: block;
+} */
+
+body{
+    background-image: url(images/burger-8743791_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
